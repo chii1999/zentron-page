@@ -1,0 +1,9 @@
+
+#menu {
+    left: -100%;
+    transition: .7s ease-in;
+}
+
+#menu.active {
+    left: 0;
+}
